@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Hayat Pharmacy API
+Implementation-Version: 1.0
+Built-By: usama
+Implementation-Vendor-Id: com.rx
+Build-Jdk: 1.8.0_411
+Implementation-URL: http://projects.spring.io/spring-boot/hayat-pharma
+ cy/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
